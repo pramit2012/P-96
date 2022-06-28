@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    vertical-align: middle;
+    background-color: aqua;
+}
+.header {
+    color: red;
+    font-weight: bolder;
+    font-family: serif;
+    font-size: 60px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
